@@ -1,0 +1,3 @@
+This application does not represent any government agency. We only provide administrative information taken from public sources and are not legally responsible for the use of this data.
+Data is taken from the public source of the General Statistics Office of Vietnam at:
+https://danhmuchanhchinh.gso.gov.vn/

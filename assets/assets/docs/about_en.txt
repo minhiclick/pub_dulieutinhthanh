@@ -1,0 +1,5 @@
+Most of the current 2-level address selection items by locality in Vietnam (Province and Ward) are often incomplete or contain incorrect information, as this data needs to be updated regularly. Our application provides the most accurate and up-to-date Vietnam regions data export solution, suitable for integration into your application or website.
+The app supports exporting data in many different formats, including: JSON, Excel, XML, or SQL scripts compatible with database management systems such as MS-SQL, MySQL, SQLite, PostgreSQL and Oracle.
+In particular, you can customize the data according to the language or data model that meets your usage needs.
+We will send notifications and update instructions whenever there is a change in local information, helping to ensure that the data in your application is always maintained accurately and continuously updated without affecting existing data links.
+Sign in and experience it today!

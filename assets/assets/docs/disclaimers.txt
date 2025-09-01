@@ -1,0 +1,3 @@
+Ứng dụng này không đại diện cho bất kỳ cơ quan chính phủ nào. Chúng tôi chỉ cung cấp thông tin hành chính được lấy từ nguồn công khai và không chịu trách nhiệm pháp lý về việc sử dụng dữ liệu này.
+Dữ liệu được lấy từ nguồn công khai của Tổng cục Thống kê Việt Nam tại địa chỉ:
+https://danhmuchanhchinh.gso.gov.vn/
